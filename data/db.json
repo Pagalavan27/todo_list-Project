@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Play video games"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Earn money"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Grow money"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "AI Learning"
+    }
+  ]
+}
